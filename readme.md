@@ -11,12 +11,12 @@ help them solve real life UX and UI problems.
 
 ### But we like the whiteboard during our interview process!!!
 
-If you're so inclined to have a frontend developer entertain you at the white board, pose them a real life problem like, for example
+If you're so inclined to have a frontend developer entertain you at the whiteboard, pose them a real life problem like, for example
 
 * give them a real life specification and ask them how they would materialize that 
-* consider they should use pseudo code to represent their ideas. Not realistic to have somebody actually code working code in a whiteboard (real life developers, we google, and we google a lot). So putting a person under stress and under
-non-realistic conditions, to solve a problem with code, may simply prevent you from hiring a great frontend developer by understanding  what really matters. How they think and how they solve problems.
+* consider they should use pseudo code to represent their ideas. It is not realistic to have somebody actually code working code on a whiteboard (real life developers, we google, and we google a lot). So putting a person under that kind of stress and 
+non-realistic conditions to solve a problem with code, may simply prevent you from hiring a great frontend developer by missing the point of what really matters: How they think and how they solve problems that they WILL have.
 
-I may post technical test ideas, too. And everyone is welcome to collaborate with this repo.
+I may post technical test ideas, too, later on. And everyone is welcome to collaborate with this repo.
 
 Have a great day!
