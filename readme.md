@@ -6,7 +6,7 @@ With these guidelines in mind, you can design a good interview questionnaire, an
 ### I can see no algorithms!
 
 Frontend developers may not be knowledeable in algorithms. A lot of them may not even have a computer sciences background. 
-That does not mean that they do not acquired extensive and in-depth technical knowledge thru the years, but, it is highly unlikely Big-O Notation or algorithms such will
+That does not mean that they did not acquire extensive practical and in-depth technical knowledge over the years, but, it is highly unlikely Big-O Notation or algorithms such will
 help them solve real life UX and UI problems.
 
 ### But we like white board during our interview process!!!
