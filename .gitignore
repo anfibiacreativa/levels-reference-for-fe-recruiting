@@ -1,0 +1,8 @@
+# VSCode
+.history
+.favorites.json
+.vscode/
+
+# Mac OS X
+.DS_Store
+*.swp
