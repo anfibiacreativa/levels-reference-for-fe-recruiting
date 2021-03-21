@@ -9,7 +9,7 @@ Frontend developers may not be knowledeable in algorithms. A lot of them may not
 That does not mean that they did not acquire extensive practical and in-depth technical knowledge over the years, but, it is highly unlikely Big-O Notation or algorithms such will
 help them solve real life UX and UI problems.
 
-### But we like white board during our interview process!!!
+### But we like the whiteboard during our interview process!!!
 
 If you're so inclined to have a frontend developer entertain you at the white board, pose them a real life problem like, for example
 
